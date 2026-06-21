@@ -10,7 +10,7 @@ Building AI-powered applications, automation systems, and scalable web products.
 
 
 # 💫 About Me:
-🔭 Currently building AI-powered web applications and automation systems<br><br>🤝 Looking to collaborate on AI Agents, SaaS products, and Full-Stack projects<br><br>🌱 Currently learning Advanced System Design, RAG, Multi-Agent Systems, and Cloud Architecture<br><br>💬 Ask me about React.js, Next.js, Node.js, AI Agents, n8n, Supabase, and OpenAI APIs<br><br>⚡ Fun Fact: I built and deployed multiple AI-powered applications while pursuing my B.Tech degree
+🔭 Currently building AI-powered web applications and automation systems.<br><br>🤝 Looking to collaborate on AI Agents, SaaS products, and Full-Stack projects.<br><br>🌱 Currently learning Advanced System Design, RAG, Multi-Agent Systems, and Cloud Architecture.<br><br>💬 Ask me about React.js, Next.js, Node.js, AI Agents, n8n, Supabase, and OpenAI APIs.<br><br>⚡ Fun Fact: I built and deployed multiple AI-powered applications while pursuing my B.Tech degree.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
 
@@ -26,16 +26,9 @@ Building AI-powered applications, automation systems, and scalable web products.
   <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-
-
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.shion.dev/api?username=dev-raj3868&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=dev-raj3868&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-raj3868&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
----
 
