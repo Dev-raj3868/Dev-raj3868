@@ -8,7 +8,7 @@
 
 **I build scalable software, intelligent AI applications, REST APIs, and workflow automation systems.**
 
-[Portfolio](https://rajtechhub.in) • [LinkedIn](https://www.linkedin.com/in/dev-raj-960511270) • [Email](mailto:coder3868@gmail.com) • [Instagram](https://www.instagram.com/rajtech_hub)
+[Portfolio](https://devrajaiengineer.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/dev-raj-960511270) • [Email](mailto:coder3868@gmail.com) • [Instagram](https://www.instagram.com/rajtech_hub)
 
 <img src="https://komarev.com/ghpvc/?username=Dev-raj3868&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub profile views" />
 
@@ -133,7 +133,7 @@ I'm interested in opportunities involving:
 - Resume builder, cover letter generation, and interview preparation.
 - Secure authentication and real-time dashboards.
 
-### 2. RajTechHub – Full-Stack Platform & AI Automation
+### 2. RajTechHub – EdTech Platform
 
 **Tech:** React.js, Node.js, Supabase, FastAPI, OpenAI
 
@@ -142,7 +142,7 @@ I'm interested in opportunities involving:
 - Python/FastAPI services and AI-powered automation.
 - Performance optimization and REST API architecture.
 
-[Visit RajTechHub](https://rajtechhub.in)
+[Visit RajTechHub](https://rajtechub.vercel.app/)
 
 ### 3. AI Voice Calling Receptionist
 
@@ -202,7 +202,7 @@ I'm interested in connecting with software engineers, recruiters, founders, and 
 
 - **Email:** coder3868@gmail.com
 - **LinkedIn:** https://www.linkedin.com/in/dev-raj-960511270
-- **Portfolio:** https://rajtechhub.in
+- **Portfolio:** https://devrajaiengineer.vercel.app/
 - **GitHub:** https://github.com/Dev-raj3868
 
 <div align="center">
