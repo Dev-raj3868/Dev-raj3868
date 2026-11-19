@@ -1,34 +1,214 @@
-<h1 align="center">Hi 👋, I'm Dev Raj</h1>
-<h3 align="center">Full-Stack Developer | AI Engineer | Founder of RajTechHub</h3>
+ <div align="center">
 
-<p align="center">
-Building AI-powered applications, automation systems, and scalable web products.
-</p>
+# Hi, I'm Dev Raj 👋
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
-<p><img align="right" src="https://raw.githubusercontent.com/SubhadeepZilong/SubhadeepZilong/main/icons/animation_500_kxa883sd.gif" alt="SubhadeepZilong" /></p>
+### Full-Stack Software Engineer | AI Engineer | Backend Developer
 
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Building+Scalable+Web+Applications;Developing+AI+Agents+%26+Automation;Full-Stack+%7C+Backend+%7C+Generative+AI;Turning+Ideas+Into+Real+Products" alt="Animated developer introduction" />
 
-# 💫 About Me:
-🔭 Currently building AI-powered web applications and automation systems.<br><br>🤝 Looking to collaborate on AI Agents, SaaS products, and Full-Stack projects.<br><br>🌱 Currently learning Advanced System Design, RAG, Multi-Agent Systems, and Cloud Architecture.<br><br>💬 Ask me about React.js, Next.js, Node.js, AI Agents, n8n, Supabase, and OpenAI APIs.<br><br>⚡ Fun Fact: I built and deployed multiple AI-powered applications while pursuing my B.Tech degree.
+**I build scalable software, intelligent AI applications, REST APIs, and workflow automation systems.**
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=subhadeepzilong&label=Profile%20views&color=0e75b6&style=flat" alt="subhadeepzilong" /> </p>
+[Portfolio](https://rajtechhub.in) • [LinkedIn](https://www.linkedin.com/in/dev-raj-960511270) • [Email](mailto:coder3868@gmail.com) • [Instagram](https://www.instagram.com/rajtech_hub)
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/rajtech_hub?igsh=Ym53enU1MTNoaWRq) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-raj-960511270) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@RajTech_Hub?sub_confirmation=1) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:coder3868@gmail.com) 
+<img src="https://komarev.com/ghpvc/?username=Dev-raj3868&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub profile views" />
 
-# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white) ![Windows Terminal](https://img.shields.io/badge/Windows%20Terminal-%234D4D4D.svg?style=for-the-badge&logo=windows-terminal&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![Angular](https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white) ![Angular.js](https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%238511FA.svg?style=for-the-badge&logo=bootstrap&logoColor=white) ![Electron.js](https://img.shields.io/badge/Electron-191970?style=for-the-badge&logo=Electron&logoColor=white) ![Expo](https://img.shields.io/badge/expo-1C1E24?style=for-the-badge&logo=expo&logoColor=#D04A37) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![NestJS](https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white) ![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Native](https://img.shields.io/badge/react_native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=for-the-badge&logo=react%20query&logoColor=white) ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white) ![Redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) ![Semantic UI React](https://img.shields.io/badge/Semantic%20UI%20React-%2335BDB2.svg?style=for-the-badge&logo=SemanticUIReact&logoColor=white) ![Streamlit](https://img.shields.io/badge/Streamlit-%23FE4B4B.svg?style=for-the-badge&logo=streamlit&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![Three js](https://img.shields.io/badge/threejs-black?style=for-the-badge&logo=three.js&logoColor=white) ![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white) ![Vue.js](https://img.shields.io/badge/vue.js-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black) ![Meta](https://img.shields.io/badge/Meta-%230467DF.svg?style=for-the-badge&logo=Meta&logoColor=white) ![Cisco](https://img.shields.io/badge/cisco-%23049fd9.svg?style=for-the-badge&logo=cisco&logoColor=black)
-
-<!-- Snake Game Repo View -->
-
-<div align="center">
-  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
 </div>
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=dev-raj3868&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=dev-raj3868&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+---
 
+## 👨‍💻 About Me
 
+I'm **Dev Raj**, a Full-Stack Software Engineer and B.Tech Information Technology student at Gautam Buddha University.
+
+I specialize in building production-oriented web applications, backend systems, AI-powered products, and intelligent automation workflows.
+
+- 🔭 Currently working on AI agents, full-stack applications, and business automation.
+- 💼 Experience in AI automation, React development, REST API integration, and backend engineering.
+- 🤖 Building AI applications using OpenAI, Gemini, Claude, RAG, and n8n.
+- 🌱 Exploring system design, scalable architectures, multi-agent systems, and cloud technologies.
+- 🏆 Smart India Hackathon Finalist.
+- 📊 Solved 150+ Data Structures and Algorithms problems on LeetCode.
+- 🚀 Built 10+ AI-powered applications and mobile/web products serving 1,500+ users.
+- 🤝 Interested in Full-Stack, Backend, Software Engineering, and AI Engineer opportunities.
+
+**My engineering philosophy:** Build practical products, write maintainable code, solve real problems, and continuously improve.
+
+## 🎯 Career Interests
+
+I'm interested in opportunities involving:
+
+- Full-Stack Software Engineering
+- Frontend Engineering – React.js / Next.js
+- Backend Development – Node.js / Express.js / Python
+- AI Engineering and Generative AI
+- AI Agents and Workflow Automation
+- Software Development Internships and Entry-Level Engineering Roles
+
+## 🛠️ Technical Skills
+
+### Programming Languages
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### Frontend Development
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+
+### Backend & API Development
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+
+### AI, Generative AI & Automation
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
+![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
+![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
+![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+
+### Databases & Cloud
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+
+### Developer Tools
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+
+## 💼 Professional Experience
+
+**AI Agent & Automation Intern — Falcon Business Solutions**  
+*June 2026 – Present | Remote*
+
+- Developed an AI voice receptionist using Retell AI for appointment booking.
+- Integrated n8n workflows with Google Calendar, Sheets, Gmail, and Twilio.
+- Reduced manual scheduling by approximately 80%.
+- Built webhook-based automation and REST API integrations.
+
+**AI Web Development Intern — Indrav Technology**  
+*December 2025 – February 2026 | Remote*
+
+- Engineered 20+ reusable React components.
+- Integrated REST APIs for dynamic application functionality.
+- Improved UI reliability through debugging and performance optimization.
+- Integrated ChatGPT API features and deployed applications on AWS and Vercel.
+
+**Research & Frontend Developer Intern — HeyInterns Company**  
+*May 2025 – July 2025 | Remote*
+
+- Built reusable React components and integrated 100+ API requests.
+- Worked across 5+ client projects using TypeScript and Git.
+- Improved responsive UI implementation and mobile usability.
+
+## 🚀 Featured Projects
+
+### 1. ShortlistAI – AI Resume Analyzer
+
+**Tech:** React.js, Next.js, Node.js, Express.js, Supabase, OpenAI, Gemini
+
+- AI-powered resume analysis and ATS scoring.
+- Keyword recommendations and resume optimization.
+- Resume builder, cover letter generation, and interview preparation.
+- Secure authentication and real-time dashboards.
+
+### 2. RajTechHub – Full-Stack Platform & AI Automation
+
+**Tech:** React.js, Node.js, Supabase, FastAPI, OpenAI
+
+- Full-stack platform with JWT authentication.
+- Role-based authorization and admin dashboard.
+- Python/FastAPI services and AI-powered automation.
+- Performance optimization and REST API architecture.
+
+[Visit RajTechHub](https://rajtechhub.in)
+
+### 3. AI Voice Calling Receptionist
+
+**Tech:** Retell AI, OpenAI, n8n, Twilio, Google Calendar
+
+- AI-powered inbound voice receptionist.
+- Real-time appointment booking through Google Calendar.
+- Automated SMS confirmations and workflow orchestration.
+- Webhook-based integration between services.
+
+## 🏆 Achievements & Certifications
+
+- 🥇 Smart India Hackathon Finalist.
+- 💻 Solved 150+ Data Structures and Algorithms problems.
+- 🚀 Built 10+ AI-powered web and mobile applications.
+- 👥 Products and applications serving 1,500+ users.
+- 🤖 Developed 5+ AI agents and automation workflows.
+
+**Certifications**
+
+- Generative AI – Tutedude (2026)
+- Claude AI 101 – Anthropic (2026)
+- AI Agent with n8n – LetsUpgrade (2026)
+- Introduction to Machine Learning – AWS (2025)
+- HackerRank Software Intern (2025)
+
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-raj3868&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dev Raj GitHub statistics" />
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-raj3868&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
+
+<img width="90%" src="https://streak-stats.demolab.com?user=Dev-raj3868&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
+
+</div>
+
+## 🐍 Contribution Activity
+
+<div align="center">
+
+<img src="https://raw.githubusercontent.com/Dev-raj3868/Dev-raj3868/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
+
+</div>
+
+## 🎓 Education
+
+**Bachelor of Technology – Information Technology**  
+Gautam Buddha University, Greater Noida  
+June 2023 – May 2027  
+CGPA: 8.02/10
+
+## 📬 Let's Connect
+
+I'm interested in connecting with software engineers, recruiters, founders, and engineering teams working on impactful technology.
+
+- **Email:** coder3868@gmail.com
+- **LinkedIn:** https://www.linkedin.com/in/dev-raj-960511270
+- **Portfolio:** https://rajtechhub.in
+- **GitHub:** https://github.com/Dev-raj3868
+
+<div align="center">
+
+### Building. Learning. Shipping. Improving.
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Decorative footer animation" />
+
+</div>
