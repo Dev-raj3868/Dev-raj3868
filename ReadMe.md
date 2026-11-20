@@ -8,160 +8,355 @@
 
 **I build scalable software, intelligent AI applications, REST APIs, and workflow automation systems.**
 
-[Portfolio](https://devrajaiengineer.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/dev-raj-960511270) • [Email](mailto:coder3868@gmail.com) • [Instagram](https://www.instagram.com/rajtech_hub)
+</div>
 
-<img src="https://komarev.com/ghpvc/?username=Dev-raj3868&label=Profile%20Views&color=0e75b6&style=flat-square" alt="GitHub profile views" />
+---
+<div align="center">
+<br/>
+<p>
+  <img src="https://img.shields.io/badge/Open_to-Opportunities-22C55E?style=for-the-badge&logo=handshake&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Location-India-0EA5E9?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Focus-Software_Engineering-6366F1?style=for-the-badge"/>
+</p>
+
+<p>
+<a href="https://devrajaiengineer.vercel.app/">
+<img src="https://img.shields.io/badge/🌐_Portfolio-Visit_Website-0F172A?style=for-the-badge"/>
+</a>
+<a href="https://www.linkedin.com/in/dev-raj-960511270">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+<a href="mailto:coder3868@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact_Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+</p>
+
+<img src="https://komarev.com/ghpvc/?username=Dev-raj3868&style=for-the-badge&color=0284C7&label=PROFILE+VISITORS"/>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+<div align="center">
+
+## ⚡ Building Technology That Solves Real Problems
+
+</div>
 
 I'm **Dev Raj**, a Full-Stack Software Engineer and B.Tech Information Technology student at Gautam Buddha University.
 
-I specialize in building production-oriented web applications, backend systems, AI-powered products, and intelligent automation workflows.
+I specialize in building scalable web applications, backend APIs, database-driven systems, AI-powered applications, and intelligent workflow automation.
 
-- 🔭 Currently working on AI agents, full-stack applications, and business automation.
-- 💼 Experience in AI automation, React development, REST API integration, and backend engineering.
-- 🤖 Building AI applications using OpenAI, Gemini, Claude, RAG, and n8n.
-- 🌱 Exploring system design, scalable architectures, multi-agent systems, and cloud technologies.
-- 🏆 Smart India Hackathon Finalist.
-- 📊 Solved 150+ Data Structures and Algorithms problems on LeetCode.
-- 🚀 Built 10+ AI-powered applications and mobile/web products serving 1,500+ users.
-- 🤝 Interested in Full-Stack, Backend, Software Engineering, and AI Engineer opportunities.
+I enjoy transforming complex problems into practical software products using modern engineering technologies.
 
-**My engineering philosophy:** Build practical products, write maintainable code, solve real problems, and continuously improve.
+<table>
+<tr>
+<td width="50%">
 
-## 🎯 Career Interests
+### 💻 Engineering
 
-I'm interested in opportunities involving:
+- Full-Stack Development
+- Backend API Engineering
+- Database Architecture
+- Authentication & Security
+- Cloud Deployment
 
-- Full-Stack Software Engineering
-- Frontend Engineering – React.js / Next.js
-- Backend Development – Node.js / Express.js / Python
-- AI Engineering and Generative AI
-- AI Agents and Workflow Automation
-- Software Development Internships and Entry-Level Engineering Roles
+</td>
+<td width="50%">
 
-## 🛠️ Technical Skills
+### 🤖 Innovation
+
+- Generative AI
+- AI Agents
+- RAG Applications
+- Workflow Automation
+- Intelligent Applications
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 📈 Engineering Highlights
+
+<table>
+<tr>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/10%2B-0F172A?style=for-the-badge" />
+<br/><b>AI Applications</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/1500%2B-0F172A?style=for-the-badge" />
+<br/><b>Users Served</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/150%2B-0F172A?style=for-the-badge" />
+<br/><b>DSA Problems</b>
+</td>
+<td align="center" width="25%">
+<img src="https://img.shields.io/badge/5%2B-0F172A?style=for-the-badge" />
+<br/><b>AI Agents</b>
+</td>
+</tr>
+</table>
+
+🏆 **Smart India Hackathon Finalist**
+
+</div>
+
+---
+
+<div align="center">
+
+## 🧰 My Technology Arsenal
+
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=17&pause=1500&color=38BDF8&center=true&vCenter=true&width=500&lines=Frontend+%2B+Backend;Databases+%2B+Cloud;AI+%2B+Automation;Building+End-to-End+Products" />
+
+</div>
 
 ### Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 
-### Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=js,ts,python,cpp,c,php&theme=dark" />
+</p>
 
-### Backend & API Development
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-![OAuth 2.0](https://img.shields.io/badge/OAuth_2.0-EB5424?style=for-the-badge&logo=auth0&logoColor=white)
+### Frontend Engineering
 
-### AI, Generative AI & Automation
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![Google Gemini](https://img.shields.io/badge/Google_Gemini-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white)
-![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-6A5ACD?style=for-the-badge)
-![Twilio](https://img.shields.io/badge/Twilio-F22F46?style=for-the-badge&logo=twilio&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,bootstrap,redux,vite&theme=dark" />
+</p>
 
-### Databases & Cloud
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Supabase](https://img.shields.io/badge/Supabase-3FCF8E?style=for-the-badge&logo=supabase&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+### Backend & APIs
 
-### Developer Tools
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,django&theme=dark" />
+</p>
 
-## 💼 Professional Experience
+<p align="center">
+<img src="https://img.shields.io/badge/REST_APIs-0F172A?style=for-the-badge&logo=fastapi&logoColor=38BDF8"/>
+<img src="https://img.shields.io/badge/JWT-0F172A?style=for-the-badge&logo=jsonwebtokens"/>
+<img src="https://img.shields.io/badge/OAuth_2.0-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Webhooks-0F172A?style=for-the-badge"/>
+</p>
 
-**AI Agent & Automation Intern — Falcon Business Solutions**  
-*June 2026 – Present | Remote*
+### Databases
 
-- Developed an AI voice receptionist using Retell AI for appointment booking.
-- Integrated n8n workflows with Google Calendar, Sheets, Gmail, and Twilio.
-- Reduced manual scheduling by approximately 80%.
-- Built webhook-based automation and REST API integrations.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,firebase,supabase&theme=dark" />
+</p>
 
-**AI Web Development Intern — Indrav Technology**  
-*December 2025 – February 2026 | Remote*
+### AI & Automation
 
-- Engineered 20+ reusable React components.
-- Integrated REST APIs for dynamic application functionality.
-- Improved UI reliability through debugging and performance optimization.
-- Integrated ChatGPT API features and deployed applications on AWS and Vercel.
+<p align="center">
+<img src="https://skillicons.dev/icons?i=openai,python&theme=dark" />
+</p>
 
-**Research & Frontend Developer Intern — HeyInterns Company**  
-*May 2025 – July 2025 | Remote*
+<p align="center">
+<img src="https://img.shields.io/badge/Gemini-0F172A?style=for-the-badge&logo=googlegemini"/>
+<img src="https://img.shields.io/badge/Claude-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-0F172A?style=for-the-badge&logo=langchain"/>
+<img src="https://img.shields.io/badge/RAG-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/n8n-0F172A?style=for-the-badge&logo=n8n"/>
+<img src="https://img.shields.io/badge/Twilio-0F172A?style=for-the-badge&logo=twilio"/>
+</p>
 
-- Built reusable React components and integrated 100+ API requests.
-- Worked across 5+ client projects using TypeScript and Git.
-- Improved responsive UI implementation and mobile usability.
+### Cloud & Developer Tools
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws,docker,vercel,netlify,git,github,postman,figma,vscode&theme=dark" />
+</p>
+
+---
+
+<div align="center">
 
 ## 🚀 Featured Projects
 
-### 1. ShortlistAI – AI Resume Analyzer
+*Engineering ideas transformed into working products.*
 
-**Tech:** React.js, Next.js, Node.js, Express.js, Supabase, OpenAI, Gemini
+</div>
 
-- AI-powered resume analysis and ATS scoring.
-- Keyword recommendations and resume optimization.
-- Resume builder, cover letter generation, and interview preparation.
-- Secure authentication and real-time dashboards.
+<table>
+<tr>
+<td width="50%" valign="top">
 
-### 2. RajTechHub – EdTech Platform
+<h3 align="center">🤖 ShortlistAI</h3>
 
-**Tech:** React.js, Node.js, Supabase, FastAPI, OpenAI
+<div align="center">
+<img src="https://img.shields.io/badge/AI-Resume_Analyzer-2563EB?style=flat-square"/>
+</div>
 
-- Full-stack platform with JWT authentication.
-- Role-based authorization and admin dashboard.
-- Python/FastAPI services and AI-powered automation.
-- Performance optimization and REST API architecture.
+AI-powered resume analysis and career preparation platform.
 
-[Visit RajTechHub](https://rajtechub.vercel.app/)
+**Features**
+- ATS resume scoring
+- AI keyword recommendations
+- Resume builder
+- Cover letter generation
+- Interview preparation
 
-### 3. AI Voice Calling Receptionist
+**Stack:** React, Next.js, Node.js, Supabase, OpenAI, Gemini
 
-**Tech:** Retell AI, OpenAI, n8n, Twilio, Google Calendar
+</td>
+<td width="50%" valign="top">
 
-- AI-powered inbound voice receptionist.
-- Real-time appointment booking through Google Calendar.
-- Automated SMS confirmations and workflow orchestration.
-- Webhook-based integration between services.
+<h3 align="center">⚡ RajTechHub</h3>
+
+<div align="center">
+<img src="https://img.shields.io/badge/Full_Stack-AI_Platform-0891B2?style=flat-square"/>
+</div>
+
+Full-stack platform and AI automation solutions.
+
+**Features**
+- JWT authentication
+- Role-based access control
+- Admin dashboard
+- FastAPI services
+- AI-powered workflows
+
+**Stack:** React, Node.js, Supabase, FastAPI, OpenAI
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3 align="center">📞 AI Voice Receptionist</h3>
+
+<div align="center">
+</div>
+
+Intelligent voice-based appointment booking system.
+
+**Features**
+- Inbound AI voice calling
+- Calendar integration
+- Appointment booking
+- Automated SMS
+- Workflow automation
+
+**Stack:** Retell AI, OpenAI, n8n, Twilio
+
+</td>
+<td width="50%" valign="top">
+
+<h3 align="center">💡 More Engineering Projects</h3>
+
+Explore my GitHub repositories for additional work in:
+
+- Stock market applications
+- AI-powered data assistants
+- E-commerce platforms
+- Healthcare applications
+- Security and analytics tools
+
+<a href="https://github.com/Dev-raj3868?tab=repositories">Explore All Repositories →</a>
+
+</td>
+</tr>
+</table>
+
+---
+
+<div align="center">
+
+## 💼 Professional Experience
+
+</div>
+
+<details open>
+<summary><b>AI Agent & Automation Intern — Falcon Business Solutions</b></summary>
+
+**June 2026 – Present | Remote**
+
+- Developed an AI voice receptionist using Retell AI.
+- Built n8n workflows with Google Calendar, Google Sheets, Gmail, and Twilio.
+- Reduced manual scheduling by approximately 80%.
+- Integrated REST APIs and webhook automation.
+
+</details>
+
+<details>
+<summary><b>AI Web Development Intern — Indrav Technology</b></summary>
+
+**December 2025 – February 2026 | Remote**
+
+- Engineered 20+ reusable React components.
+- Integrated REST APIs for dynamic content.
+- Improved UI reliability through testing and debugging.
+- Integrated ChatGPT API features.
+
+</details>
+
+<details>
+<summary><b>Research & Frontend Developer Intern — HeyInterns</b></summary>
+
+**May 2025 – July 2025 | Remote**
+
+- Developed 20+ reusable React components.
+- Integrated 100+ API requests across 5+ client projects.
+- Worked with TypeScript and Git.
+- Improved responsive design and mobile usability.
+
+</details>
+
+---
+
+<div align="center">
+
+## 🧠 Engineering Interests
+
+</div>
+
+<p align="center">
+<img src="https://img.shields.io/badge/System_Design-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/DSA-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Microservices-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Database_Design-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Distributed_Systems-0F172A?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/AI_Agents-0F172A?style=for-the-badge"/>
+</p>
+
+Currently exploring production-grade backend engineering, asynchronous processing, database optimization, cloud architecture, and intelligent AI systems.
+
+---
+
+<div align="center">
+
+## 📊 GitHub Performance Dashboard
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-raj3868&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true"/>
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-raj3868&layout=compact&theme=tokyonight&hide_border=true&langs_count=8"/>
+
+<br/><br/>
+
+<img width="85%" src="https://streak-stats.demolab.com?user=Dev-raj3868&theme=tokyonight&hide_border=true&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8"/>
+
+</div>
+
+---
+
+---
+
+<div align="center">
 
 ## 🏆 Achievements & Certifications
 
-- 🥇 Smart India Hackathon Finalist.
-- 💻 Solved 150+ Data Structures and Algorithms problems.
-- 🚀 Built 10+ AI-powered web and mobile applications.
-- 👥 Products and applications serving 1,500+ users.
-- 🤖 Developed 5+ AI agents and automation workflows.
+</div>
 
-**Certifications**
+- 🥇 Smart India Hackathon Finalist.
+- 💻 150+ Data Structures and Algorithms problems solved.
+- 🚀 10+ AI-powered applications built.
+- 🤖 5+ AI agents and automation workflows developed.
+- 👥 Applications serving 1,500+ users.
+
+<details>
+<summary><b>View Certifications</b></summary>
 
 - Generative AI – Tutedude (2026)
 - Claude AI 101 – Anthropic (2026)
@@ -169,46 +364,44 @@ I'm interested in opportunities involving:
 - Introduction to Machine Learning – AWS (2025)
 - HackerRank Software Intern (2025)
 
-## 📊 GitHub Analytics
+</details>
+
+---
 
 <div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Dev-raj3868&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="Dev Raj GitHub statistics" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dev-raj3868&layout=compact&theme=tokyonight&hide_border=true" alt="Most used programming languages" />
-
-<img width="90%" src="https://streak-stats.demolab.com?user=Dev-raj3868&theme=tokyonight&hide_border=true" alt="GitHub contribution streak" />
-
-</div>
-
-## 🐍 Contribution Activity
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Dev-raj3868/Dev-raj3868/output/github-contribution-grid-snake-dark.svg" alt="GitHub contribution snake animation" />
-
-</div>
 
 ## 🎓 Education
 
-**Bachelor of Technology – Information Technology**  
-Gautam Buddha University, Greater Noida  
-June 2023 – May 2027  
-CGPA: 8.02/10
+**Bachelor of Technology – Information Technology**
 
-## 📬 Let's Connect
+Gautam Buddha University, Greater Noida
 
-I'm interested in connecting with software engineers, recruiters, founders, and engineering teams working on impactful technology.
+2023 – 2027 | CGPA: 8.02/10
 
-- **Email:** coder3868@gmail.com
-- **LinkedIn:** https://www.linkedin.com/in/dev-raj-960511270
-- **Portfolio:** https://devrajaiengineer.vercel.app/
-- **GitHub:** https://github.com/Dev-raj3868
+</div>
+
+---
 
 <div align="center">
 
-### Building. Learning. Shipping. Improving.
+## 🤝 Let's Build Something Great
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,100:2C5364&height=100&section=footer" alt="Decorative footer animation" />
+I'm open to connecting with recruiters, engineering teams, developers, and founders.
 
+<a href="mailto:coder3868@gmail.com">
+<img src="https://img.shields.io/badge/Let's_Talk-Email_Me-0EA5E9?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/dev-raj-960511270">
+<img src="https://img.shields.io/badge/Connect_on-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
+
+<a href="https://devrajaiengineer.vercel.app/">
+<img src="https://img.shields.io/badge/Explore-My_Portfolio-16A34A?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### "Building. Learning. Shipping. Improving."
 </div>
+
